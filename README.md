@@ -4,5 +4,6 @@ para ejecutar la API ejecutar el proyecto wpjuno, para:
 * determinar si una secuencia de ADN es mutante, hacer uso del servicio api/dna/mutant 
 Ingresar una arreglo de strings como el siguiente ejemplo:
 ["ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"]
+El algoritmo que evalua la cadena adn se encuentra en el programa: clsCadenaAdn.cs
 * ver estadísticas de las verificaciones de ADN, hacer uso del servicio api/dna/stats
-el algoritmo que evalua la cadena adn se encuentra en el programa: clsCadenaAdn.cs
+
